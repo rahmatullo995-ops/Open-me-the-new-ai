@@ -3,11 +3,23 @@
     margin: 0;
     box-sizing: border-box;
 }
-.Header-stared{
+.Dashboard{
+    margin-top: 150px;
+}
+.Header-stared div{
     display: flex;
-    justify-content: space-between;
+    align-items: center;
 }
 .Total-Revenue p{
+    color: grey;
+}
+.Orders p{
+    color: grey;
+}
+.Active-Sessions p{
+    color: grey;
+}
+.Total-Sessions p {
     color: grey;
 }
 .price-1{

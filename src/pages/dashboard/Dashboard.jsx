@@ -6,7 +6,7 @@ import PeopleImg from "../../assets/People.png"
 const Dashboard = () => {
     return(
         <div className="Header-stared">
-            <h3>Dashboard</h3>
+            <h3 className="Dashboard">Dashboard</h3>
 
             <div className="Total-Revenue">
                 <a>$10.540</a>
@@ -26,7 +26,7 @@ const Dashboard = () => {
                 <h2 className="price-2">18.25%👇🏻</h2>
                 <img src={HumanImg} alt="Human-image" />
             </div>
-            <div>
+            <div className="Total-Sessions">
                 <a>5.420</a>
                 <p>Total Sessions</p>
                 <h2 className="price-2">10.24%👆🏻</h2>
