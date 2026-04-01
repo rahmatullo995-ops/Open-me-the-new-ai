@@ -3,15 +3,15 @@
     margin: 0;
     box-sizing: border-box;
 }
-.Dashboard{
-    margin-top: 150px;
-}
 .Header-stared div{
     display: flex;
     align-items: center;
 }
 .Total-Revenue p{
     color: grey;
+}
+.Total-Revenue{
+    display: flex;
 }
 .Orders p{
     color: grey;
