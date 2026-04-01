@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Dashboard{
+    margin-top: 150px;
+}
+.Header-stared div{
+    display: flex;
+    align-items: center;
+}
+.Total-Revenue p{
+    color: grey;
+}
+.Orders p{
+    color: grey;
+}
+.Active-Sessions p{
+    color: grey;
+}
+.Total-Sessions p {
+    color: grey;
+}
+.price-1{
+    color: green;
+}
+.price-2{
+    color: red;
+}
