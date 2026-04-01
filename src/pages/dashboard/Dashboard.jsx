@@ -5,7 +5,7 @@ import HumanImg from "../../assets/Human.png"
 import PeopleImg from "../../assets/People.png"
 const Dashboard = () => {
     return(
-        <div>
+        <div className="Header-stared">
             <h3>Dashboard</h3>
 
             <div className="Total-Revenue">
